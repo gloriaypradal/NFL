@@ -11,7 +11,6 @@ Create a model that can effectively determine the best defensive formation based
 This Project was work on a team with two of my classmates: Mohamad Quteifan and Kayla Thompson
 
 
-```markdown
 The data consists of all passing plays. One thing that caused some confusion is “Unknown play type” but after conducting some EDA it was determined that the plays were all passing plays “unknown” just meant the play ended in a sack. 
 The good thing about the data is that we did not have to conduct any data imputing -- there were a limited number of missing values and most the missing values were from features that are not going to be used. 
 
@@ -19,7 +18,6 @@ The good thing about the data is that we did not have to conduct any data imputi
 ## Results
 
 [Final Document](https://github.com/gloriaypradal/NFL/blob/main/THE%20PRESENTATION!_MQuteifan_KThompson_GMoore%20(1).pdf)
-```
 
 
 ### References
